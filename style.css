@@ -1,0 +1,248 @@
+body {
+   background-color: Gold;
+}
+header {
+    color:red;
+    font-size:50px;
+     text-align:center;
+     background-color:orange;
+     width: 100%;
+}
+marquee {
+  color: red;
+  font-size:35px;
+  margin-top: 5px;
+}
+body p1 {
+  color:orange;
+  font-size:30px;
+   text-align:left;
+}
+body p2 {
+  color:LawnGreen;
+   font-size:25px;
+   text-align:left;
+}
+nav{
+  font-size:20 ;
+  text-align: center;
+  text-decoration: underline;
+  background-color: orange;
+  margin: 10px;
+}
+nav a {
+  text-align:center;
+  margin-left:70px;
+  border-top:5px;
+}
+.active {
+  background-color: red;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+li {
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: Orange;
+}
+.Slideshow {
+  background-color: Blue;
+  height: 80%;
+   width: 73%;
+}
+.message{
+  width: 26%;
+  background-color: gold;
+   float: right;
+   font-size: 17;
+   font-family: cursive;
+}
+/* style for about page starting */
+.About_page_para1 {
+
+  width: 100%;
+  background-color: white;
+  height: 40px;
+
+
+}
+.About_page_para1 p {
+  margin: 20px;
+  color: red;
+  font-size: 35px;
+}
+.about_Content h1 {
+  text-align: center;
+}
+
+.swamiji_intro{
+  width: 49%;
+  font-size: 30px;
+  color: Orange;
+  margin-right: 15px;
+  height: 800px;
+  float: right;
+  margin-right: 75px;
+  text-shadow: 2px 2px red;
+  text-align: justify;
+}
+.swamiji_Img{
+  float:left;
+  height: 800px;
+  width: 500px;
+}
+.swamiji_intro2{
+  width: 49%;
+  font-size: 30px;
+  color: Orange;
+  margin-right: 15px;
+  height: 800px;
+  float: left;
+  margin-right: 75px;
+  text-align: justify;
+  text-shadow: 2px 2px red;
+}
+.swamiji_Img2{
+  float:right;
+  height: 800px;
+  width: 500px;
+  margin-right: 250px;
+}
+footer {
+  background-color: Grey;
+  width: 100%;
+}
+.column {
+  float: left;
+  width: 33.333333333333%;
+  font-family: cursive;
+  background-color: Gray;
+  color: Blue;
+}
+/* Team Page Stlye Starts: */
+.ourteam{
+  text-align: center;
+  font-size: 35px;
+  font-family: cursive;
+}
+.team_members {
+  height: 1000px;
+   width:100%;
+   background-color: Blue;
+}
+.team1 {
+  height: 260;
+  width: 250;
+  margin: 5%;
+  float: left;
+}
+.team1 h2 {
+  color: white;
+  text-shadow:red 2px 1px;
+}
+.team1 h4 {
+  color: white;
+  text-shadow:red 2px 1px ;
+}
+
+
+/* Style for the Prajna Class page starting */
+
+.Studentcomment1 {
+  color: blue;
+  width: 50%;
+  float:left;
+  background-color: red;
+  height: 300px;
+}
+.Studentcomment1_img {
+  width: 100%;
+  float: left;
+}
+.Studentcomment1_txt {
+  width: 73%;
+  float: right;
+}
+.Studentcomment2 {
+  color: blue;
+  width: 50%;
+  float:left;
+  background-color: Black;
+  height: 200px;
+  margin-top:200px;
+}
+.Studentcomment3 {
+  color: blue;
+  width: 50%;
+  float:left;
+  background-color: green;
+  height: 200px;
+}
+.Studentcomment4 {
+  color: blue;
+  width: 50%;
+  float:left;
+  background-color: Black;
+  height: 200px;
+  margin-top:200px;
+}
+.Studentcomment1 h2 {
+  float: center;
+}
+
+
+}
+
+/* stlye for the Volunteer page starting*/
+
+.Volunteer_slider {
+  width: 100%;
+  height: 100%;
+  background-color: purple;
+}
+
+.Volunteerform {
+  width: 50%;
+  background-color: Blue;
+  float: left;
+}
+.Volunteer_text {
+  width: 50%;
+  height: 1000px;
+  float:left;
+}
+.Volunteer_text p {
+  text-align: justify;
+  font-family: cursive;
+  font-size: 40px;
+  color: Blue;
+  text-shadow: red 2px 2px 5px;
+  margin: 20px;
+  line-height: 55px;
+
+}
+/* stlye for Contact Us PAge Starting */
+.contactmap {
+  float: left;
+  width: 50%;
+  background-color: Blue;
+}
+.Contactform {
+  float: right;
+  width: 50%;
+  background-color: orange;
+}
